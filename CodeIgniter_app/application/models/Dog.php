@@ -2,8 +2,8 @@
 
 class Dog extends CI_Controller {
 
-	public function breed() {
-		return "husky";
+	public function dog_info() {
+		return ["breed"=>"husky", "cuteness"=>"VERY CUTE"];
 	}
 }
 
