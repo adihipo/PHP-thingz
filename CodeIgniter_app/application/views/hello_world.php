@@ -1,1 +1,3 @@
 <h1>HEEEELLLOOO WOOOORLD!</h1>
+
+<a href="/dog">CLICK HERE TO SEE YOUR DOG</a>

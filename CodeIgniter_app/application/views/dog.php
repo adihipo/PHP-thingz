@@ -10,5 +10,7 @@
 	<h1>Your dog is:</h1>
 	<p><?= $dog["breed"]; ?></p>
 	<p><?= $dog["cuteness"]; ?></p>
+	<br>
+	<a href="/">BACK TO HELLO WORLD</a>
 </body>
 </html>
